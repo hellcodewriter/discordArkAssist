@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ark Server Assist - Terms of Service</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #111;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 10px;
+            margin-top: 0;
+        }
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Ark Server Assist — Terms of Service</h1>
+    <p><em>Last updated: October 2026</em></p>
+
+    <p>By adding <strong>Ark Server Assist</strong> (hereafter referred to as "the Bot") to your Discord server or using its features, you agree to comply with and be bound by these Terms of Service. If you do not agree, please remove the Bot from your server immediately.</p>
+
+    <h2>1. Acceptance of Terms</h2>
+    <p>To use this Bot, you must also comply with the official Discord Terms of Service and Discord Community Guidelines. Any violation of Discord's rules while using this Bot may result in a permanent ban from using our services.</p>
+
+    <h2>2. Permitted Use & Restrictions</h2>
+    <p>You agree to use the Bot only for its intended gaming and moderation purposes. You strictly agree NOT to:</p>
+    <ul>
+        <li>Attempt to reverse-engineer, exploit, or bypass any security measures of the Bot.</li>
+        <li>Use the Bot to spam, harass, or maliciously disrupt Discord servers or users.</li>
+        <li>Use automated tools to flood the Bot with requests (API spamming).</li>
+    </ul>
+
+    <h2>3. Service Availability & Modifications</h2>
+    <p>The Bot is provided on an "as is" and "as available" basis. The development team reserves the right to modify, update, or temporarily disable the Bot or specific features at any time without prior notice for maintenance or improvements.</p>
+
+    <h2>4. Limitation of Liability</h2>
+    <p>The developers of the Bot are not responsible for any data loss, server disruptions, or moderation issues that may occur within your Discord server or in-game Ark: Survival Evolved accounts due to the use or misuse of the Bot.</p>
+
+    <h2>5. Termination</h2>
+    <p>We reserve the right to terminate or block access to the Bot for specific users or entire Discord servers at our sole discretion, without warning, if these Terms are violated.</p>
+</div>
+
+</body>
+</html>
